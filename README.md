@@ -1,5 +1,8 @@
 # Java Projects
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+
 A collection of Java programs I've written, ranging from console applications to a GUI game.
 
 ---
